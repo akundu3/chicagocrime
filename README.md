@@ -10,4 +10,6 @@ Preprocessing with one-hot Encoding for categorical values.
 
 Pridicting murders given time, date and location.
 
+Project in progress.
+
 Please see Jupyter notebook file name: Chicagocrime.ipynb
