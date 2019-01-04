@@ -2,7 +2,7 @@
 
 Predicting Chicago crime
 
-Socrata Api, fetching data page py page 50,000 records ata time in order by date.
+Socrata Api, fetching over 300,000 records, page py page, 50,000 records at a time in order by date.
 
 Checking data for missing values. Missing values decreased over time. Especialy in Location information, Lat Long etc.
 
