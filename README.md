@@ -8,7 +8,7 @@ Checking data for missing values. Missing values decreased over time. Especialy 
 
 Preprocessing with one-hot Encoding for categorical values.
 
-Pridicting murders given time, date and location.
+Predicting murders given time, date and location.
 
 Project in progress.
 
